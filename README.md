@@ -1,3 +1,4 @@
+# ! UNDER CONSTRUCTION !
 # Smart-Catcher
 
 2020-02 서강대학교 캡스톤디자인1
