@@ -27,10 +27,10 @@
 
 ***
 ### 기술 시스템
-##### [Abstract Structure Map]
+##### Abstract Structure Map
 ![image](https://user-images.githubusercontent.com/26410791/98261935-5aaadf00-1fc8-11eb-9639-3814cdb05ac6.png)
 
-##### [Detail]
+##### Detail
 1. 정보 수집
     * J&K 열람실 : 로욜라 도서관 자리 정보 API를 활용하여 실시간 자리 정보를 얻어온다.
     * 서가 열람실(생각하는 숲) & 만레사존 : 적외선 센서로 실시간 출입 정보를 수집한다.
